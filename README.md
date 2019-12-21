@@ -8,9 +8,9 @@
 
 ### Dependence
 * Software Dependence
-⋅⋅*MySQL
+  *MySQL
 * Python Package Dependence
-⋅⋅*Python Driver for MySQL (Connector/Python), PyQt5, rsa, cryptography, pyaudio.
+  *Python Driver for MySQL (Connector/Python), PyQt5, rsa, cryptography, pyaudio.
 
 ### Preparation
 1. Create two datebase in MySQL `login_data` and `message_data` as the following image shows.
