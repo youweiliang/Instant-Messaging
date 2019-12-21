@@ -12,7 +12,7 @@ Python Package Dependence: Python Driver for MySQL (Connector/Python), PyQt5, rs
 
 ### Preparation
 1. Create two datebase in MySQL `login_data` and `message_data` as the following image shows.
-![MySQL Database](https://github.com/youweiliang/Instant-Messaging/master/MySQL_Database.png)
+![MySQL Database](https://github.com/youweiliang/Instant-Messaging/blob/master/MySQL_Database.png)
 
 2. Configure the username and password of MySQL in `IM_server.py`, and configure  the server IP and port in `IM_server.py` and `Client.py`.
 
