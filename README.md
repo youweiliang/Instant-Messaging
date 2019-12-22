@@ -23,6 +23,6 @@
 4. (Optional) Configure `RECV_PORT` and `SEND_PORT` for file transmission in `file_transfer.py`.
 
 ### Example Usage
-1. Start server in local machine: `python IM_server,py`.
+1. Start server in a machine with a public IP address: `python IM_server.py`.
 2. Start clients in user PC: `python IM_client.py`.
 3. Have fun!
